@@ -2,7 +2,7 @@ This repository contains the experiment data and code used for the
 article [_Niehorster, D.C., Tamborski, S., Nyström, M., Konklewski, R.,
 Pryhodiuk, V., Tołpa, K., Hessels, R.S., Szkulmowski, M. & Hooge, I.T.C.
 (2025). The best fixation target revisited: new insights from retinal
-eye tracking. Behavior Research Methods 58(2). doi: 10.3758/s13428-025-02890-1_]
+eye tracking. Behavior Research Methods 58(2). doi: 10.3758/s13428-025-02890-1_](https://dx.doi.org/10.3758/s13428-025-02890-1)
 
 When using the data in this repository in your work, please cite
 Niehorster et al. (2025).
